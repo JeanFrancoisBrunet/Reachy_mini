@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=
+Comment=Reachy Mini Control Application
+Exec=reachy-mini-control
+StartupWMClass=reachy-mini-control
+Icon=reachy-mini-control
+Name=Reachy Mini Control
+Terminal=false
+Type=Application
+MimeType=x-scheme-handler/reachymini
